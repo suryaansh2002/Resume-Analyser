@@ -1,8 +1,8 @@
 # Text Mining Dashboard
 
-A modern web application for resume text mining and analysis, featuring a Next.js frontend and FastAPI backend. This dashboard provides powerful tools for text analysis, resume parsing, and job description evaluation.
+A modern web application for text mining and analysis, featuring a Next.js frontend and FastAPI backend. This dashboard provides powerful tools for text analysis, resume parsing, and job description evaluation.
 
-![Demo Video](./assets/demo.mp4)
+[Demo Video](https://drive.google.com/file/d/1bdR-y6Lux8t11ojkR928-q4co2MNAYZX/view?usp=sharing)
 
 ## 🚀 Features
 
