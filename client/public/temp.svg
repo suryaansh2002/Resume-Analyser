@@ -1,0 +1,20 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="100" fill="url(#bgGradient)" />
+  <g filter="url(#glow)">
+    <rect x="96" y="96" width="320" height="320" rx="40" fill="#1E1E2F" />
+    <path d="M176 160h160v48H176z" fill="#fff"/>
+    <path d="M176 224h160v16H176zM176 256h120v16H176z" fill="#fff"/>
+    <circle cx="248" cy="184" r="8" fill="#FF2CFD"/>
+    <rect x="280" y="288" width="48" height="48" rx="8" fill="#fff"/>
+    <path d="M310 318l30 30" stroke="#FF2CFD" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <defs>
+    <radialGradient id="bgGradient" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(256 256) scale(256)">
+      <stop stop-color="#2D2D5F"/>
+      <stop offset="1" stop-color="#1A1A2F"/>
+    </radialGradient>
+    <filter id="glow" x="0" y="0" width="512" height="512" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#FF2CFD" />
+    </filter>
+  </defs>
+</svg>

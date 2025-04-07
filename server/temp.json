@@ -1,0 +1,172 @@
+{
+    "Rishabh": {
+      "name": "Rishabh",
+      "phone": "+65-8283-1544",
+      "Location": "Singapore",
+      "highest_level_of_education": "Master of Computing, Artificial Intelligence",
+      "education": [
+        {
+          "degree": "Master of Computing, Artificial Intelligence",
+          "university": "National University of Singapore (NUS)",
+          "graduation_year": "May 2025",
+          "level_of_education": "Masters",
+          "field_of_study": "Artificial Intelligence",
+          "gpa": "8.80/10"
+        },
+        {
+          "degree": "Bachelor of Technology, Artificial Intelligence, Engineering, Computer Science",
+          "university": "Gautam Buddha University",
+          "graduation_year": "May 2023",
+          "level_of_education": "Bachelors",
+          "field_of_study": "Artificial Intelligence, Engineering, Computer Science",
+          "gpa": "8.80/10"
+        }
+      ],
+      "experience": [
+        {
+          "title": "AI/ML Engineer",
+          "company": "Mindfire Solution Pvt. Ltd.",
+          "summary": "Led a four-person team to design and implement a 3D Chatbot Avatar system, integrating AI-driven personalization for 100+ daily users and enhancing engagement by 15%. Developed real-time 3D rendering and conversation pipelines using Three.js and Azure TTS/STT, reducing load times by 27% while ensuring smooth data processing. Implemented prompt-engineered techniques to tailor user experiences through applied machine learning, contributing to increased user retention by 15%.",
+          "start_date": "Mar 2024",
+          "end_date": "Aug 2024",
+          "duration_months": 6
+        },
+        {
+          "title": "Associate AI Engineer",
+          "company": "Ergebnis Technologies Pvt. Ltd.",
+          "summary": "Leveraged object detection and OCR models in Python to automate QA processes, reducing medical equipment inspection time by 85%. Engineered a barcode scanning dashboard incorporating predictive analytics and ETL pipelines to optimize hospital supply chains, reducing stock-outs by 40%. Deployed scalable machine learning applications using Python, Flask, and Docker Swarm, ensuring robust infrastructure and high-quality code production.",
+          "start_date": "Sep 2023",
+          "end_date": "Mar 2024",
+          "duration_months": 7
+        }
+      ],
+      "technical_skills": [
+        "Python",
+        "Java",
+        "Basic C",
+        "SQL",
+        "JavaScript",
+        "TensorFlow",
+        "PyTorch",
+        "Scikit-learn",
+        "Hugging Face Transformers",
+        "XGBoost",
+        "Azure",
+        "Three.js",
+        "Flask",
+        "Docker",
+        "ETL",
+        "Object Detection",
+        "OCR",
+        "Predictive Analytics",
+        "SQL",
+        "REST APIs",
+        "Data Visualization"
+      ],
+      "soft_skills": [
+        "Team Leadership",
+        "Problem-solving",
+        "Communication",
+        "Strategic Thinking",
+        "Project Management"
+      ],
+      "certifications": [
+        "Red Hat Certified System Administrator (RHCSA)"
+      ],
+      "languages": [
+        "English",
+        "Hindi"
+      ],
+      "total_experience_months": 13
+    },
+    "Shekhar Somani": {
+      "name": "Shekhar Somani",
+      "phone": "+65 9896 4846",
+      "Location": "Singapore",
+      "highest_level_of_education": "Master’s in Computing, AI Specialization",
+      "education": [
+        {
+          "degree": "Masters in Computing, AI Specialization",
+          "university": "National University of Singapore",
+          "graduation_year": "2025",
+          "level_of_education": "Masters",
+          "field_of_study": "AI",
+          "gpa": "4.4"
+        },
+        {
+          "degree": "B.E., Computer & Science",
+          "university": "Birla Institute of Technology & Science, Hyderabad",
+          "graduation_year": "2021",
+          "level_of_education": "Bachelor's",
+          "field_of_study": "Computer & Science",
+          "gpa": "8.54"
+        },
+        {
+          "degree": "M.Sc., Economics",
+          "university": "Birla Institute of Technology & Science, Hyderabad",
+          "graduation_year": "2021",
+          "level_of_education": "Masters",
+          "field_of_study": "Economics",
+          "gpa": null
+        }
+      ],
+      "experience": [
+        {
+          "title": "AI Engineer",
+          "company": "Unknown",
+          "summary": "Developed and implemented AI solutions for various applications, including fraud detection and personalized recommendations. Utilized technologies such as deep learning, machine learning, and big data frameworks.  Experienced in model building, training, and deployment.",
+          "start_date": "Unknown",
+          "end_date": "Unknown"
+        },
+        {
+          "title": "Data Scientist",
+          "company": "Unknown",
+          "summary": "Worked on developing and deploying machine learning models for predictive analytics.  Experience with data mining, feature engineering, and model evaluation.  Utilized Python, Spark, and TensorFlow.",
+          "start_date": "Unknown",
+          "end_date": "Unknown"
+        },
+        {
+          "title": "Data Analyst",
+          "company": "Unknown",
+          "summary": "Performed data analysis, developed insights, and created reports to support business decision-making. Utilized SQL, Python, and data visualization tools.",
+          "start_date": "Unknown",
+          "end_date": "Unknown"
+        }
+      ],
+      "technical_skills": [
+        "Python",
+        "Spark",
+        "TensorFlow",
+        "Machine Learning",
+        "Deep Learning",
+        "SQL",
+        "Data Mining",
+        "Feature Engineering",
+        "Model Evaluation",
+        "Big Data",
+        "Data Visualization",
+        "Model Building",
+        "Model Deployment",
+        "TensorFlow",
+        "PyTorch",
+        "Scikit-learn",
+        "Data Analysis",
+        "Statistical Analysis"
+      ],
+      "soft_skills": [
+        "Problem-solving",
+        "Analytical Skills",
+        "Communication Skills",
+        "Teamwork",
+        "Critical Thinking"
+      ],
+      "certifications": [
+        "Unknown"
+      ],
+      "languages": [
+        "English",
+        "Hindi"
+      ],
+      "total_experience_months": 0
+    }
+  }
